@@ -1,0 +1,1001 @@
+Match_ID,Team1,Team2,Venue,Team1_Runs,Team2_Runs,Match_Winner,Toss_Winner,Toss_Decision,Key_Performance_Metric
+1,PAK,AUS,Karachi,256,224,Team1,Team1,Bat,49
+2,NZ,SA,Lord's,246,285,Team2,Team1,Bowl,5
+3,IND,PAK,Karachi,353,388,Team2,Team2,Bowl,30
+4,PAK,PAK,Lord's,272,247,Team1,Team1,Bat,60
+5,AUS,IND,Sydney,225,367,Team1,Team2,Bowl,69
+6,SA,SA,Sydney,377,314,Team2,Team1,Bowl,19
+7,PAK,NZ,Cape Town,278,376,Team1,Team2,Bat,15
+8,PAK,AUS,Cape Town,221,269,Team2,Team2,Bowl,47
+9,AUS,IND,Lord's,245,298,Team1,Team2,Bat,92
+10,PAK,SA,Lord's,221,212,Team1,Team1,Bat,76
+11,IND,AUS,Mumbai,299,314,Team2,Team1,Bat,37
+12,NZ,IND,Cape Town,342,220,Team1,Team1,Bowl,67
+13,IND,NZ,Lord's,273,264,Team1,Team1,Bat,65
+14,SA,ENG,Sydney,383,241,Team2,Team1,Bat,46
+15,PAK,PAK,Lord's,361,217,Team1,Team1,Bat,12
+16,AUS,IND,Lord's,274,296,Team2,Team1,Bowl,87
+17,AUS,NZ,Karachi,271,302,Team1,Team2,Bowl,65
+18,SA,AUS,Lord's,297,360,Team2,Team2,Bat,91
+19,NZ,AUS,Sydney,391,351,Team1,Team2,Bowl,37
+20,IND,ENG,Mumbai,278,387,Team1,Team2,Bat,68
+21,PAK,AUS,Lord's,322,324,Team1,Team1,Bowl,32
+22,SA,NZ,Cape Town,308,321,Team1,Team1,Bowl,81
+23,SA,AUS,Cape Town,393,287,Team2,Team2,Bat,30
+24,IND,PAK,Mumbai,228,335,Team2,Team2,Bowl,2
+25,IND,PAK,Karachi,222,222,Team1,Team2,Bat,18
+26,SA,AUS,Sydney,236,309,Team1,Team2,Bowl,49
+27,SA,ENG,Mumbai,226,221,Team2,Team1,Bat,41
+28,SA,ENG,Sydney,216,239,Team2,Team2,Bat,64
+29,IND,SA,Mumbai,392,313,Team2,Team1,Bowl,60
+30,PAK,IND,Sydney,242,371,Team1,Team1,Bowl,28
+31,IND,NZ,Lord's,320,214,Team2,Team2,Bowl,69
+32,NZ,AUS,Cape Town,215,249,Team1,Team2,Bat,30
+33,IND,SA,Mumbai,396,201,Team1,Team1,Bowl,52
+34,SA,IND,Lord's,267,329,Team1,Team2,Bowl,81
+35,ENG,SA,Lord's,339,209,Team1,Team1,Bowl,29
+36,PAK,NZ,Mumbai,348,241,Team2,Team1,Bowl,34
+37,PAK,NZ,Mumbai,316,386,Team2,Team2,Bat,68
+38,SA,AUS,Karachi,278,326,Team1,Team2,Bowl,64
+39,PAK,IND,Lord's,260,324,Team1,Team2,Bat,82
+40,ENG,SA,Mumbai,220,366,Team2,Team1,Bowl,71
+41,SA,SA,Karachi,354,323,Team2,Team1,Bat,42
+42,ENG,NZ,Lord's,394,367,Team2,Team1,Bat,30
+43,ENG,NZ,Cape Town,380,214,Team1,Team2,Bowl,61
+44,PAK,ENG,Lord's,381,273,Team1,Team2,Bowl,19
+45,IND,SA,Cape Town,207,319,Team1,Team2,Bowl,43
+46,SA,NZ,Sydney,379,223,Team1,Team1,Bowl,64
+47,ENG,NZ,Lord's,280,397,Team1,Team2,Bowl,52
+48,AUS,AUS,Sydney,337,296,Team2,Team1,Bowl,25
+49,IND,NZ,Mumbai,297,397,Team1,Team2,Bowl,34
+50,SA,SA,Mumbai,235,396,Team2,Team1,Bat,52
+51,NZ,PAK,Karachi,240,282,Team2,Team2,Bowl,46
+52,NZ,IND,Sydney,266,299,Team2,Team2,Bat,70
+53,IND,AUS,Karachi,241,244,Team2,Team1,Bowl,26
+54,PAK,IND,Lord's,240,338,Team2,Team2,Bat,18
+55,PAK,SA,Cape Town,353,365,Team2,Team1,Bowl,39
+56,SA,NZ,Cape Town,355,220,Team2,Team2,Bat,20
+57,PAK,NZ,Sydney,372,335,Team1,Team2,Bowl,11
+58,AUS,IND,Mumbai,200,336,Team1,Team2,Bowl,39
+59,ENG,PAK,Lord's,295,351,Team2,Team2,Bowl,53
+60,SA,SA,Karachi,254,386,Team1,Team2,Bat,37
+61,IND,IND,Mumbai,286,206,Team1,Team2,Bowl,2
+62,IND,AUS,Karachi,362,217,Team2,Team2,Bowl,12
+63,SA,IND,Karachi,301,313,Team1,Team1,Bowl,49
+64,PAK,NZ,Mumbai,317,301,Team2,Team2,Bat,64
+65,AUS,SA,Cape Town,261,366,Team1,Team2,Bowl,67
+66,SA,PAK,Sydney,396,291,Team1,Team1,Bat,86
+67,SA,AUS,Lord's,356,371,Team2,Team2,Bowl,43
+68,IND,NZ,Karachi,383,318,Team1,Team2,Bat,38
+69,ENG,SA,Lord's,297,304,Team2,Team1,Bowl,6
+70,NZ,AUS,Lord's,398,336,Team1,Team1,Bat,97
+71,AUS,PAK,Mumbai,368,251,Team2,Team2,Bat,34
+72,PAK,IND,Cape Town,272,319,Team2,Team2,Bat,44
+73,SA,PAK,Karachi,286,346,Team1,Team2,Bat,53
+74,AUS,NZ,Cape Town,355,304,Team2,Team1,Bowl,21
+75,ENG,AUS,Sydney,372,267,Team1,Team1,Bat,40
+76,NZ,PAK,Lord's,329,342,Team1,Team1,Bat,23
+77,PAK,ENG,Sydney,380,379,Team1,Team1,Bat,68
+78,AUS,IND,Lord's,242,210,Team1,Team2,Bowl,73
+79,ENG,SA,Karachi,348,217,Team1,Team2,Bat,47
+80,AUS,AUS,Lord's,310,281,Team1,Team1,Bat,72
+81,NZ,AUS,Karachi,250,279,Team2,Team1,Bowl,32
+82,SA,SA,Cape Town,233,358,Team2,Team2,Bowl,96
+83,PAK,SA,Cape Town,298,208,Team2,Team1,Bat,66
+84,SA,AUS,Lord's,387,337,Team1,Team1,Bowl,98
+85,IND,PAK,Karachi,326,333,Team1,Team2,Bowl,37
+86,ENG,AUS,Mumbai,296,370,Team2,Team2,Bowl,41
+87,IND,IND,Mumbai,391,285,Team1,Team2,Bowl,65
+88,AUS,AUS,Sydney,379,224,Team2,Team2,Bowl,46
+89,AUS,NZ,Sydney,297,245,Team1,Team2,Bowl,90
+90,NZ,SA,Lord's,293,261,Team1,Team2,Bat,35
+91,SA,PAK,Mumbai,254,386,Team1,Team2,Bat,87
+92,NZ,AUS,Mumbai,221,362,Team1,Team2,Bat,77
+93,PAK,SA,Karachi,314,321,Team1,Team2,Bat,98
+94,IND,AUS,Mumbai,215,209,Team2,Team1,Bat,19
+95,SA,SA,Mumbai,284,249,Team2,Team1,Bowl,29
+96,ENG,AUS,Sydney,397,221,Team1,Team1,Bat,88
+97,ENG,SA,Cape Town,346,387,Team2,Team1,Bowl,32
+98,ENG,AUS,Sydney,393,289,Team2,Team2,Bat,71
+99,SA,AUS,Mumbai,241,253,Team2,Team2,Bowl,61
+100,ENG,SA,Sydney,259,328,Team1,Team1,Bowl,87
+101,SA,ENG,Karachi,391,229,Team1,Team1,Bat,19
+102,NZ,AUS,Mumbai,284,338,Team2,Team2,Bowl,68
+103,SA,PAK,Karachi,266,399,Team2,Team1,Bowl,68
+104,PAK,AUS,Mumbai,304,374,Team1,Team1,Bat,13
+105,IND,IND,Karachi,308,380,Team2,Team2,Bowl,41
+106,IND,PAK,Karachi,272,237,Team1,Team2,Bat,75
+107,SA,AUS,Karachi,240,383,Team2,Team2,Bat,51
+108,IND,NZ,Sydney,318,394,Team2,Team2,Bowl,94
+109,NZ,NZ,Cape Town,388,249,Team1,Team1,Bowl,11
+110,SA,PAK,Mumbai,385,377,Team1,Team1,Bat,6
+111,ENG,NZ,Mumbai,227,329,Team1,Team1,Bat,59
+112,AUS,IND,Cape Town,381,335,Team2,Team1,Bowl,13
+113,AUS,PAK,Mumbai,242,291,Team1,Team1,Bat,76
+114,PAK,SA,Mumbai,348,306,Team2,Team2,Bat,79
+115,PAK,NZ,Mumbai,253,282,Team1,Team1,Bowl,6
+116,IND,IND,Sydney,234,353,Team2,Team2,Bowl,39
+117,ENG,AUS,Cape Town,338,358,Team1,Team1,Bowl,13
+118,IND,IND,Sydney,327,353,Team2,Team2,Bowl,7
+119,ENG,IND,Sydney,368,393,Team1,Team2,Bat,11
+120,NZ,IND,Karachi,251,299,Team1,Team1,Bowl,38
+121,ENG,IND,Lord's,307,234,Team1,Team2,Bowl,46
+122,SA,SA,Cape Town,345,215,Team2,Team2,Bowl,7
+123,SA,PAK,Cape Town,311,310,Team2,Team2,Bowl,37
+124,AUS,AUS,Mumbai,331,258,Team2,Team1,Bowl,52
+125,NZ,ENG,Mumbai,303,299,Team2,Team1,Bowl,96
+126,NZ,PAK,Karachi,287,381,Team2,Team1,Bowl,23
+127,IND,ENG,Cape Town,395,280,Team1,Team1,Bowl,83
+128,ENG,ENG,Sydney,383,258,Team2,Team1,Bat,93
+129,NZ,NZ,Lord's,334,301,Team2,Team1,Bowl,70
+130,PAK,AUS,Lord's,204,296,Team1,Team1,Bowl,46
+131,ENG,NZ,Cape Town,383,203,Team2,Team1,Bat,96
+132,IND,SA,Karachi,234,337,Team1,Team1,Bowl,33
+133,SA,NZ,Mumbai,354,306,Team1,Team1,Bowl,73
+134,NZ,NZ,Cape Town,373,360,Team2,Team1,Bowl,62
+135,IND,IND,Lord's,285,323,Team1,Team2,Bowl,45
+136,IND,AUS,Sydney,228,228,Team2,Team1,Bat,36
+137,NZ,ENG,Cape Town,236,329,Team1,Team2,Bowl,88
+138,AUS,NZ,Sydney,214,237,Team2,Team2,Bowl,12
+139,NZ,ENG,Mumbai,399,250,Team1,Team2,Bat,99
+140,ENG,NZ,Sydney,275,219,Team2,Team1,Bat,46
+141,IND,IND,Mumbai,217,256,Team2,Team2,Bat,57
+142,SA,ENG,Sydney,217,206,Team1,Team2,Bowl,42
+143,SA,IND,Mumbai,284,245,Team2,Team2,Bat,49
+144,NZ,NZ,Cape Town,206,234,Team2,Team1,Bowl,87
+145,ENG,SA,Lord's,345,314,Team1,Team1,Bowl,41
+146,IND,ENG,Lord's,349,347,Team2,Team2,Bowl,1
+147,ENG,AUS,Lord's,351,391,Team1,Team1,Bowl,65
+148,SA,PAK,Mumbai,362,231,Team1,Team2,Bat,90
+149,NZ,AUS,Sydney,312,272,Team2,Team2,Bat,53
+150,PAK,NZ,Cape Town,333,281,Team2,Team2,Bat,0
+151,SA,ENG,Karachi,349,261,Team1,Team2,Bat,55
+152,NZ,PAK,Sydney,302,280,Team1,Team1,Bat,50
+153,SA,ENG,Lord's,350,376,Team1,Team2,Bowl,13
+154,ENG,ENG,Karachi,360,280,Team2,Team2,Bowl,40
+155,NZ,SA,Karachi,344,202,Team2,Team2,Bowl,30
+156,IND,SA,Mumbai,325,239,Team2,Team1,Bat,53
+157,NZ,AUS,Cape Town,326,381,Team2,Team1,Bowl,46
+158,ENG,PAK,Cape Town,373,390,Team1,Team1,Bowl,6
+159,ENG,NZ,Mumbai,397,242,Team2,Team1,Bat,98
+160,IND,SA,Lord's,342,283,Team1,Team1,Bat,43
+161,PAK,NZ,Mumbai,233,218,Team2,Team2,Bat,29
+162,NZ,ENG,Sydney,303,246,Team1,Team2,Bat,43
+163,NZ,AUS,Lord's,217,270,Team1,Team2,Bowl,95
+164,SA,SA,Cape Town,325,262,Team1,Team1,Bowl,70
+165,SA,SA,Lord's,386,292,Team1,Team2,Bat,70
+166,NZ,SA,Lord's,278,300,Team1,Team2,Bat,11
+167,IND,PAK,Sydney,304,373,Team1,Team1,Bowl,42
+168,AUS,NZ,Mumbai,346,257,Team2,Team2,Bat,38
+169,AUS,ENG,Sydney,273,286,Team1,Team1,Bat,46
+170,AUS,AUS,Mumbai,320,295,Team2,Team2,Bowl,15
+171,ENG,NZ,Cape Town,247,248,Team1,Team1,Bat,36
+172,PAK,PAK,Karachi,253,294,Team1,Team1,Bat,47
+173,IND,IND,Cape Town,202,256,Team2,Team2,Bat,60
+174,NZ,IND,Mumbai,221,326,Team2,Team1,Bat,45
+175,IND,SA,Cape Town,238,395,Team2,Team1,Bat,58
+176,ENG,NZ,Sydney,219,213,Team2,Team1,Bowl,94
+177,PAK,ENG,Karachi,201,345,Team2,Team2,Bat,40
+178,IND,AUS,Karachi,280,369,Team2,Team1,Bat,46
+179,PAK,NZ,Lord's,254,212,Team1,Team1,Bowl,74
+180,IND,PAK,Karachi,331,398,Team1,Team1,Bat,92
+181,AUS,SA,Cape Town,223,278,Team1,Team2,Bowl,67
+182,SA,NZ,Cape Town,393,251,Team1,Team2,Bowl,60
+183,NZ,IND,Karachi,280,255,Team1,Team2,Bowl,96
+184,ENG,ENG,Cape Town,309,287,Team2,Team2,Bat,84
+185,IND,IND,Sydney,242,397,Team1,Team1,Bat,26
+186,SA,AUS,Cape Town,302,248,Team2,Team1,Bowl,24
+187,AUS,SA,Lord's,239,290,Team2,Team1,Bowl,52
+188,AUS,AUS,Lord's,235,375,Team2,Team1,Bat,35
+189,PAK,IND,Mumbai,394,298,Team1,Team1,Bowl,14
+190,IND,SA,Sydney,352,252,Team2,Team2,Bowl,55
+191,AUS,AUS,Cape Town,281,227,Team2,Team1,Bat,35
+192,ENG,AUS,Lord's,399,361,Team1,Team1,Bat,85
+193,AUS,SA,Sydney,335,341,Team1,Team1,Bowl,65
+194,IND,AUS,Sydney,275,247,Team2,Team2,Bowl,59
+195,AUS,AUS,Cape Town,375,377,Team2,Team1,Bat,15
+196,SA,ENG,Sydney,261,255,Team2,Team2,Bowl,30
+197,NZ,PAK,Karachi,208,391,Team2,Team2,Bowl,81
+198,SA,PAK,Cape Town,306,381,Team2,Team1,Bowl,3
+199,PAK,AUS,Sydney,227,256,Team2,Team1,Bowl,20
+200,NZ,IND,Mumbai,234,215,Team1,Team1,Bat,21
+201,ENG,AUS,Mumbai,215,371,Team1,Team2,Bowl,7
+202,AUS,NZ,Karachi,341,318,Team1,Team1,Bowl,58
+203,PAK,AUS,Sydney,212,281,Team1,Team2,Bowl,83
+204,PAK,AUS,Cape Town,381,365,Team2,Team2,Bowl,77
+205,NZ,PAK,Lord's,386,226,Team1,Team1,Bat,4
+206,PAK,AUS,Karachi,297,365,Team1,Team2,Bat,97
+207,ENG,SA,Karachi,379,366,Team2,Team2,Bowl,61
+208,ENG,SA,Cape Town,209,202,Team1,Team2,Bat,6
+209,PAK,PAK,Karachi,223,379,Team1,Team1,Bowl,31
+210,SA,AUS,Cape Town,373,232,Team1,Team2,Bowl,34
+211,ENG,ENG,Sydney,392,342,Team1,Team1,Bat,51
+212,IND,NZ,Karachi,247,336,Team2,Team1,Bowl,78
+213,NZ,NZ,Karachi,347,359,Team1,Team1,Bowl,92
+214,PAK,NZ,Karachi,223,274,Team1,Team2,Bat,49
+215,SA,AUS,Lord's,326,239,Team1,Team1,Bat,51
+216,PAK,AUS,Mumbai,396,322,Team2,Team1,Bat,57
+217,AUS,SA,Mumbai,235,344,Team2,Team1,Bowl,76
+218,IND,AUS,Sydney,365,328,Team1,Team2,Bowl,80
+219,AUS,NZ,Cape Town,378,272,Team1,Team1,Bowl,9
+220,SA,ENG,Sydney,364,220,Team2,Team1,Bowl,49
+221,NZ,IND,Sydney,217,362,Team2,Team2,Bowl,66
+222,AUS,ENG,Sydney,227,238,Team1,Team1,Bat,93
+223,PAK,ENG,Lord's,222,206,Team2,Team1,Bat,50
+224,IND,SA,Lord's,396,240,Team1,Team2,Bowl,59
+225,PAK,AUS,Cape Town,325,334,Team1,Team2,Bat,88
+226,NZ,IND,Karachi,362,291,Team2,Team2,Bat,30
+227,AUS,IND,Karachi,256,321,Team1,Team2,Bowl,82
+228,AUS,IND,Karachi,309,393,Team1,Team1,Bat,66
+229,IND,ENG,Sydney,266,375,Team1,Team1,Bowl,34
+230,ENG,NZ,Lord's,222,395,Team1,Team2,Bowl,44
+231,IND,NZ,Lord's,351,334,Team1,Team1,Bat,6
+232,PAK,ENG,Cape Town,296,330,Team2,Team2,Bowl,9
+233,IND,AUS,Karachi,313,233,Team1,Team1,Bat,56
+234,NZ,NZ,Sydney,299,322,Team1,Team2,Bowl,26
+235,PAK,IND,Cape Town,343,259,Team1,Team1,Bowl,90
+236,AUS,SA,Mumbai,394,338,Team2,Team2,Bowl,51
+237,AUS,AUS,Lord's,245,276,Team1,Team2,Bowl,55
+238,IND,PAK,Karachi,321,383,Team2,Team1,Bowl,73
+239,SA,NZ,Sydney,277,206,Team2,Team2,Bowl,7
+240,NZ,NZ,Karachi,349,378,Team1,Team2,Bowl,26
+241,ENG,ENG,Karachi,351,337,Team2,Team2,Bowl,17
+242,IND,SA,Sydney,393,212,Team2,Team1,Bat,0
+243,IND,IND,Karachi,231,369,Team1,Team2,Bowl,50
+244,PAK,PAK,Lord's,353,357,Team2,Team2,Bowl,95
+245,IND,SA,Karachi,275,265,Team1,Team1,Bowl,52
+246,SA,AUS,Karachi,265,250,Team1,Team1,Bat,45
+247,SA,ENG,Mumbai,330,243,Team2,Team2,Bat,41
+248,ENG,NZ,Mumbai,302,386,Team1,Team2,Bat,30
+249,ENG,NZ,Karachi,257,295,Team2,Team1,Bowl,36
+250,NZ,AUS,Sydney,214,354,Team2,Team2,Bowl,31
+251,ENG,ENG,Karachi,376,255,Team1,Team1,Bat,81
+252,NZ,NZ,Mumbai,394,311,Team1,Team1,Bowl,56
+253,AUS,IND,Lord's,230,287,Team1,Team1,Bowl,68
+254,PAK,IND,Cape Town,315,276,Team1,Team2,Bat,91
+255,PAK,SA,Cape Town,233,283,Team1,Team2,Bat,41
+256,IND,ENG,Cape Town,227,323,Team2,Team2,Bowl,7
+257,PAK,IND,Cape Town,248,382,Team2,Team2,Bowl,30
+258,SA,AUS,Sydney,263,243,Team2,Team2,Bat,78
+259,IND,ENG,Lord's,229,204,Team1,Team2,Bat,42
+260,IND,NZ,Cape Town,334,273,Team2,Team2,Bowl,14
+261,IND,SA,Karachi,283,310,Team2,Team1,Bowl,32
+262,NZ,ENG,Cape Town,364,277,Team1,Team2,Bat,74
+263,PAK,IND,Sydney,368,346,Team1,Team1,Bat,24
+264,NZ,SA,Sydney,286,337,Team2,Team1,Bat,23
+265,PAK,ENG,Lord's,262,239,Team1,Team2,Bat,55
+266,IND,ENG,Mumbai,289,282,Team2,Team1,Bat,98
+267,PAK,ENG,Cape Town,340,272,Team1,Team1,Bowl,74
+268,SA,AUS,Sydney,325,382,Team1,Team1,Bat,39
+269,ENG,AUS,Karachi,284,266,Team2,Team2,Bat,92
+270,ENG,ENG,Sydney,346,265,Team2,Team1,Bat,97
+271,NZ,AUS,Sydney,349,301,Team2,Team2,Bowl,76
+272,AUS,NZ,Sydney,226,247,Team1,Team1,Bowl,82
+273,NZ,IND,Cape Town,376,343,Team1,Team1,Bat,39
+274,IND,AUS,Sydney,311,289,Team1,Team1,Bat,32
+275,PAK,AUS,Mumbai,382,277,Team2,Team2,Bowl,13
+276,SA,ENG,Cape Town,374,313,Team1,Team1,Bowl,13
+277,SA,IND,Karachi,269,293,Team1,Team2,Bowl,9
+278,PAK,IND,Karachi,395,221,Team1,Team1,Bat,24
+279,PAK,ENG,Mumbai,310,228,Team1,Team2,Bowl,43
+280,NZ,AUS,Mumbai,367,302,Team2,Team2,Bowl,6
+281,PAK,AUS,Karachi,366,277,Team2,Team2,Bowl,36
+282,NZ,SA,Mumbai,299,302,Team1,Team1,Bat,85
+283,NZ,PAK,Mumbai,356,328,Team2,Team1,Bat,33
+284,IND,AUS,Mumbai,359,374,Team1,Team2,Bat,54
+285,IND,IND,Karachi,315,255,Team1,Team2,Bowl,45
+286,IND,NZ,Karachi,256,284,Team1,Team2,Bowl,55
+287,ENG,ENG,Mumbai,280,252,Team1,Team2,Bowl,75
+288,SA,NZ,Karachi,256,299,Team1,Team2,Bat,91
+289,NZ,PAK,Karachi,281,252,Team2,Team2,Bat,26
+290,PAK,NZ,Lord's,395,254,Team1,Team1,Bat,55
+291,NZ,IND,Mumbai,322,377,Team1,Team2,Bat,19
+292,IND,NZ,Cape Town,235,337,Team2,Team2,Bowl,56
+293,IND,NZ,Cape Town,249,308,Team1,Team1,Bowl,28
+294,NZ,SA,Karachi,317,368,Team1,Team1,Bat,9
+295,NZ,SA,Mumbai,299,324,Team1,Team1,Bat,2
+296,AUS,AUS,Sydney,307,254,Team1,Team2,Bat,89
+297,ENG,NZ,Karachi,231,338,Team2,Team2,Bat,27
+298,PAK,AUS,Karachi,262,350,Team2,Team1,Bowl,71
+299,ENG,SA,Mumbai,230,212,Team2,Team2,Bat,12
+300,AUS,PAK,Lord's,362,367,Team2,Team1,Bowl,54
+301,SA,ENG,Lord's,207,202,Team2,Team2,Bowl,32
+302,NZ,SA,Sydney,213,273,Team2,Team2,Bat,21
+303,SA,PAK,Mumbai,252,239,Team1,Team2,Bat,8
+304,AUS,PAK,Lord's,205,384,Team2,Team1,Bowl,23
+305,SA,NZ,Lord's,377,370,Team1,Team1,Bowl,98
+306,IND,AUS,Karachi,279,355,Team1,Team2,Bat,46
+307,IND,NZ,Cape Town,227,286,Team1,Team2,Bowl,82
+308,NZ,PAK,Mumbai,238,227,Team1,Team2,Bowl,65
+309,PAK,IND,Sydney,348,276,Team2,Team2,Bowl,85
+310,IND,PAK,Mumbai,235,376,Team2,Team1,Bowl,65
+311,IND,ENG,Lord's,307,330,Team1,Team2,Bowl,47
+312,ENG,PAK,Karachi,350,319,Team1,Team1,Bowl,11
+313,SA,NZ,Sydney,230,372,Team1,Team1,Bowl,7
+314,PAK,AUS,Lord's,223,308,Team2,Team2,Bowl,84
+315,SA,PAK,Sydney,214,370,Team2,Team2,Bowl,83
+316,ENG,ENG,Lord's,355,271,Team2,Team1,Bowl,19
+317,ENG,SA,Karachi,396,382,Team2,Team1,Bowl,18
+318,SA,ENG,Sydney,255,238,Team1,Team2,Bat,49
+319,PAK,NZ,Lord's,259,209,Team1,Team1,Bat,52
+320,IND,SA,Mumbai,390,214,Team2,Team2,Bat,19
+321,ENG,IND,Sydney,379,310,Team2,Team2,Bat,81
+322,NZ,PAK,Mumbai,206,340,Team2,Team2,Bowl,91
+323,NZ,PAK,Mumbai,243,318,Team1,Team2,Bat,86
+324,SA,PAK,Sydney,399,221,Team2,Team1,Bowl,76
+325,PAK,ENG,Cape Town,364,275,Team2,Team2,Bat,27
+326,NZ,AUS,Sydney,202,212,Team2,Team1,Bat,66
+327,AUS,SA,Mumbai,343,328,Team1,Team2,Bat,75
+328,ENG,SA,Mumbai,356,372,Team1,Team2,Bat,92
+329,IND,IND,Lord's,224,229,Team1,Team1,Bowl,84
+330,ENG,NZ,Lord's,289,221,Team2,Team2,Bowl,60
+331,SA,NZ,Lord's,279,339,Team2,Team2,Bowl,40
+332,AUS,NZ,Sydney,278,386,Team1,Team1,Bowl,0
+333,IND,AUS,Karachi,329,261,Team2,Team2,Bowl,57
+334,IND,NZ,Karachi,352,220,Team1,Team1,Bowl,89
+335,SA,ENG,Karachi,341,216,Team1,Team2,Bat,31
+336,IND,ENG,Karachi,386,213,Team1,Team1,Bat,56
+337,IND,PAK,Mumbai,377,272,Team1,Team2,Bat,61
+338,NZ,ENG,Mumbai,206,382,Team2,Team1,Bat,48
+339,AUS,IND,Mumbai,252,344,Team1,Team2,Bat,8
+340,SA,NZ,Mumbai,262,299,Team1,Team1,Bowl,85
+341,NZ,AUS,Sydney,208,306,Team1,Team1,Bat,92
+342,AUS,NZ,Sydney,253,208,Team1,Team2,Bowl,95
+343,SA,PAK,Mumbai,352,226,Team2,Team2,Bat,85
+344,SA,IND,Karachi,331,207,Team2,Team2,Bat,15
+345,IND,ENG,Mumbai,343,303,Team1,Team1,Bowl,36
+346,NZ,NZ,Lord's,317,377,Team2,Team2,Bat,87
+347,AUS,SA,Sydney,378,349,Team2,Team2,Bat,35
+348,PAK,SA,Karachi,393,279,Team2,Team2,Bowl,55
+349,AUS,PAK,Lord's,309,341,Team1,Team1,Bat,73
+350,NZ,IND,Karachi,229,293,Team2,Team1,Bat,73
+351,SA,AUS,Sydney,295,299,Team2,Team2,Bowl,5
+352,NZ,AUS,Lord's,230,322,Team1,Team1,Bowl,48
+353,ENG,IND,Cape Town,356,255,Team2,Team2,Bat,10
+354,AUS,NZ,Mumbai,283,304,Team2,Team2,Bowl,46
+355,ENG,NZ,Mumbai,390,287,Team1,Team2,Bat,84
+356,NZ,PAK,Mumbai,308,364,Team2,Team1,Bat,11
+357,IND,SA,Karachi,309,263,Team1,Team2,Bat,79
+358,NZ,PAK,Karachi,256,366,Team2,Team2,Bat,37
+359,IND,IND,Lord's,237,320,Team1,Team1,Bowl,71
+360,IND,SA,Mumbai,376,266,Team1,Team2,Bat,24
+361,NZ,ENG,Cape Town,269,274,Team1,Team1,Bat,85
+362,AUS,IND,Karachi,231,280,Team1,Team2,Bowl,11
+363,SA,PAK,Karachi,276,259,Team1,Team2,Bowl,50
+364,AUS,PAK,Mumbai,203,201,Team2,Team2,Bat,42
+365,NZ,PAK,Mumbai,287,308,Team2,Team2,Bowl,96
+366,PAK,SA,Sydney,298,245,Team1,Team1,Bat,10
+367,IND,PAK,Sydney,223,203,Team1,Team1,Bowl,34
+368,AUS,NZ,Lord's,277,200,Team1,Team1,Bowl,2
+369,AUS,ENG,Karachi,238,244,Team1,Team1,Bowl,45
+370,AUS,IND,Sydney,251,387,Team2,Team1,Bowl,28
+371,ENG,SA,Cape Town,330,392,Team1,Team1,Bat,70
+372,AUS,ENG,Karachi,209,221,Team1,Team1,Bat,93
+373,NZ,ENG,Sydney,212,235,Team1,Team2,Bowl,84
+374,ENG,PAK,Cape Town,324,259,Team2,Team1,Bowl,60
+375,AUS,AUS,Lord's,234,202,Team2,Team1,Bowl,82
+376,NZ,IND,Cape Town,361,380,Team1,Team2,Bat,19
+377,ENG,SA,Mumbai,210,248,Team1,Team2,Bowl,29
+378,IND,NZ,Sydney,284,299,Team1,Team1,Bowl,83
+379,IND,AUS,Mumbai,242,212,Team2,Team2,Bowl,49
+380,AUS,ENG,Karachi,238,216,Team1,Team1,Bat,44
+381,AUS,PAK,Mumbai,371,304,Team2,Team2,Bat,17
+382,PAK,ENG,Cape Town,250,290,Team1,Team1,Bowl,24
+383,SA,SA,Cape Town,334,342,Team1,Team1,Bowl,24
+384,ENG,IND,Mumbai,214,213,Team1,Team1,Bowl,6
+385,ENG,NZ,Sydney,376,214,Team2,Team2,Bowl,28
+386,PAK,ENG,Lord's,301,366,Team1,Team1,Bat,55
+387,AUS,ENG,Sydney,277,282,Team2,Team1,Bat,62
+388,SA,AUS,Cape Town,233,288,Team1,Team1,Bowl,39
+389,PAK,PAK,Mumbai,304,300,Team1,Team1,Bowl,61
+390,ENG,AUS,Sydney,283,392,Team2,Team2,Bat,58
+391,PAK,AUS,Karachi,234,313,Team2,Team2,Bowl,21
+392,ENG,ENG,Mumbai,215,238,Team1,Team2,Bowl,5
+393,IND,PAK,Lord's,219,396,Team1,Team2,Bat,87
+394,NZ,PAK,Lord's,373,365,Team1,Team1,Bat,81
+395,SA,IND,Cape Town,372,244,Team2,Team1,Bowl,15
+396,AUS,IND,Mumbai,336,222,Team2,Team1,Bat,37
+397,IND,IND,Lord's,217,244,Team2,Team1,Bat,82
+398,NZ,AUS,Cape Town,387,394,Team1,Team2,Bowl,82
+399,PAK,IND,Sydney,217,229,Team1,Team1,Bat,2
+400,IND,NZ,Mumbai,351,392,Team1,Team1,Bat,60
+401,SA,ENG,Sydney,393,284,Team2,Team1,Bowl,34
+402,NZ,AUS,Mumbai,327,324,Team2,Team2,Bat,97
+403,NZ,SA,Mumbai,361,331,Team1,Team2,Bat,0
+404,SA,PAK,Cape Town,351,287,Team1,Team2,Bat,85
+405,NZ,ENG,Lord's,316,303,Team2,Team1,Bat,23
+406,AUS,NZ,Cape Town,392,277,Team1,Team2,Bat,76
+407,ENG,IND,Mumbai,385,205,Team1,Team2,Bowl,8
+408,PAK,AUS,Mumbai,284,365,Team2,Team2,Bowl,51
+409,SA,SA,Cape Town,223,207,Team1,Team1,Bat,32
+410,ENG,IND,Lord's,213,251,Team1,Team1,Bowl,69
+411,AUS,NZ,Mumbai,241,349,Team2,Team1,Bowl,90
+412,ENG,PAK,Cape Town,380,322,Team2,Team2,Bowl,2
+413,NZ,PAK,Mumbai,369,395,Team1,Team1,Bowl,37
+414,IND,PAK,Sydney,250,341,Team1,Team1,Bowl,30
+415,IND,NZ,Karachi,278,360,Team1,Team1,Bowl,92
+416,PAK,IND,Sydney,235,333,Team2,Team1,Bowl,87
+417,PAK,SA,Cape Town,362,321,Team2,Team1,Bat,44
+418,NZ,ENG,Mumbai,378,333,Team1,Team1,Bowl,9
+419,PAK,ENG,Mumbai,397,284,Team2,Team2,Bowl,21
+420,IND,SA,Cape Town,328,216,Team1,Team2,Bat,22
+421,NZ,NZ,Lord's,232,391,Team1,Team1,Bat,38
+422,NZ,SA,Mumbai,304,232,Team2,Team2,Bat,93
+423,AUS,NZ,Sydney,357,316,Team2,Team2,Bat,78
+424,ENG,IND,Cape Town,394,260,Team1,Team1,Bowl,9
+425,ENG,NZ,Karachi,383,257,Team2,Team1,Bowl,94
+426,PAK,PAK,Mumbai,241,262,Team1,Team2,Bowl,50
+427,NZ,IND,Sydney,271,274,Team1,Team2,Bowl,36
+428,SA,SA,Lord's,229,314,Team1,Team1,Bowl,84
+429,PAK,SA,Mumbai,236,370,Team2,Team2,Bowl,40
+430,IND,NZ,Lord's,298,274,Team2,Team2,Bowl,49
+431,AUS,IND,Sydney,387,358,Team1,Team2,Bat,16
+432,AUS,NZ,Lord's,205,346,Team1,Team1,Bat,51
+433,ENG,NZ,Mumbai,344,298,Team2,Team1,Bowl,35
+434,IND,AUS,Lord's,200,354,Team2,Team2,Bat,72
+435,NZ,SA,Cape Town,307,363,Team1,Team1,Bowl,42
+436,PAK,IND,Cape Town,256,396,Team1,Team2,Bat,15
+437,SA,AUS,Sydney,222,362,Team2,Team2,Bowl,81
+438,IND,AUS,Mumbai,358,220,Team2,Team2,Bowl,27
+439,AUS,NZ,Karachi,302,342,Team1,Team2,Bowl,37
+440,ENG,PAK,Lord's,208,380,Team1,Team1,Bat,37
+441,SA,AUS,Karachi,331,331,Team2,Team1,Bowl,84
+442,SA,SA,Cape Town,326,226,Team2,Team2,Bat,10
+443,SA,PAK,Sydney,383,320,Team1,Team2,Bowl,12
+444,SA,SA,Mumbai,388,383,Team1,Team1,Bowl,5
+445,ENG,IND,Mumbai,333,206,Team1,Team1,Bat,77
+446,ENG,NZ,Mumbai,279,374,Team1,Team1,Bowl,71
+447,ENG,PAK,Sydney,332,227,Team1,Team2,Bat,65
+448,NZ,AUS,Sydney,382,223,Team2,Team2,Bat,9
+449,AUS,AUS,Mumbai,223,387,Team1,Team2,Bat,97
+450,SA,NZ,Cape Town,206,286,Team1,Team2,Bat,96
+451,ENG,NZ,Lord's,310,216,Team2,Team1,Bat,13
+452,SA,SA,Sydney,288,256,Team2,Team1,Bowl,90
+453,NZ,SA,Cape Town,290,337,Team1,Team2,Bowl,62
+454,AUS,IND,Mumbai,254,367,Team2,Team2,Bowl,51
+455,NZ,ENG,Sydney,258,394,Team2,Team2,Bowl,34
+456,PAK,ENG,Mumbai,255,264,Team1,Team1,Bowl,90
+457,IND,SA,Mumbai,383,366,Team1,Team2,Bat,30
+458,SA,ENG,Sydney,276,368,Team2,Team2,Bowl,86
+459,NZ,NZ,Lord's,294,239,Team1,Team1,Bowl,30
+460,SA,AUS,Sydney,260,284,Team1,Team2,Bowl,25
+461,NZ,AUS,Karachi,223,261,Team1,Team1,Bowl,45
+462,PAK,NZ,Mumbai,324,333,Team2,Team2,Bowl,12
+463,IND,ENG,Cape Town,312,276,Team1,Team2,Bat,58
+464,SA,PAK,Mumbai,222,283,Team1,Team2,Bowl,81
+465,SA,NZ,Cape Town,200,252,Team1,Team2,Bowl,6
+466,ENG,SA,Karachi,312,294,Team1,Team2,Bat,43
+467,ENG,NZ,Cape Town,365,352,Team1,Team1,Bowl,21
+468,IND,IND,Sydney,240,283,Team1,Team2,Bowl,49
+469,PAK,SA,Lord's,290,278,Team1,Team1,Bowl,37
+470,PAK,AUS,Mumbai,344,281,Team2,Team2,Bat,52
+471,ENG,ENG,Cape Town,309,314,Team1,Team2,Bat,33
+472,SA,NZ,Mumbai,327,226,Team2,Team1,Bowl,1
+473,ENG,PAK,Mumbai,299,318,Team1,Team2,Bat,86
+474,ENG,IND,Lord's,386,389,Team1,Team2,Bat,55
+475,NZ,SA,Lord's,345,391,Team1,Team2,Bowl,82
+476,SA,AUS,Karachi,348,388,Team1,Team2,Bowl,59
+477,IND,NZ,Lord's,354,288,Team1,Team1,Bat,20
+478,NZ,ENG,Cape Town,363,364,Team1,Team1,Bat,59
+479,IND,ENG,Karachi,257,367,Team2,Team1,Bowl,11
+480,ENG,ENG,Lord's,259,310,Team2,Team1,Bowl,96
+481,SA,PAK,Cape Town,273,237,Team1,Team1,Bat,17
+482,AUS,ENG,Mumbai,377,271,Team1,Team1,Bowl,4
+483,ENG,ENG,Karachi,284,313,Team1,Team1,Bat,42
+484,ENG,ENG,Lord's,200,380,Team1,Team2,Bat,22
+485,ENG,NZ,Cape Town,252,361,Team2,Team2,Bowl,19
+486,IND,NZ,Cape Town,281,395,Team1,Team1,Bowl,65
+487,AUS,NZ,Sydney,367,320,Team1,Team1,Bowl,29
+488,PAK,SA,Lord's,255,353,Team2,Team1,Bat,81
+489,PAK,PAK,Sydney,295,244,Team2,Team2,Bat,55
+490,AUS,NZ,Cape Town,256,394,Team2,Team2,Bat,48
+491,PAK,PAK,Mumbai,339,260,Team2,Team2,Bat,85
+492,SA,PAK,Sydney,313,277,Team2,Team1,Bowl,2
+493,ENG,SA,Mumbai,389,262,Team2,Team2,Bowl,78
+494,AUS,AUS,Lord's,298,236,Team1,Team1,Bat,30
+495,ENG,SA,Karachi,256,350,Team1,Team1,Bat,22
+496,SA,NZ,Cape Town,300,342,Team1,Team1,Bowl,70
+497,PAK,SA,Mumbai,369,300,Team1,Team2,Bat,13
+498,PAK,IND,Sydney,239,378,Team1,Team1,Bat,71
+499,AUS,SA,Mumbai,349,367,Team2,Team1,Bat,28
+500,NZ,AUS,Lord's,293,218,Team1,Team2,Bowl,27
+501,ENG,PAK,Lord's,343,276,Team2,Team2,Bowl,20
+502,PAK,AUS,Cape Town,333,237,Team1,Team1,Bowl,84
+503,PAK,ENG,Mumbai,398,282,Team2,Team2,Bat,59
+504,SA,PAK,Karachi,355,390,Team1,Team2,Bowl,27
+505,ENG,IND,Sydney,397,336,Team1,Team2,Bat,21
+506,AUS,AUS,Cape Town,219,231,Team1,Team1,Bowl,47
+507,NZ,AUS,Lord's,252,278,Team2,Team2,Bowl,62
+508,ENG,IND,Lord's,341,291,Team2,Team2,Bowl,3
+509,NZ,NZ,Cape Town,308,262,Team1,Team2,Bowl,90
+510,IND,IND,Sydney,293,234,Team1,Team1,Bat,46
+511,ENG,NZ,Lord's,284,395,Team1,Team1,Bat,52
+512,PAK,SA,Sydney,300,392,Team2,Team2,Bat,25
+513,IND,SA,Sydney,359,323,Team2,Team2,Bat,52
+514,IND,PAK,Lord's,246,228,Team1,Team2,Bat,9
+515,ENG,ENG,Mumbai,356,302,Team1,Team2,Bat,87
+516,ENG,SA,Cape Town,200,244,Team1,Team1,Bat,41
+517,PAK,NZ,Cape Town,265,291,Team1,Team2,Bowl,24
+518,SA,SA,Karachi,321,377,Team2,Team2,Bat,55
+519,IND,NZ,Sydney,346,385,Team2,Team2,Bowl,96
+520,IND,PAK,Mumbai,279,312,Team1,Team1,Bat,35
+521,SA,SA,Lord's,237,370,Team1,Team2,Bat,37
+522,SA,PAK,Mumbai,308,371,Team1,Team2,Bat,62
+523,NZ,ENG,Lord's,341,338,Team1,Team1,Bat,28
+524,IND,NZ,Mumbai,363,251,Team2,Team2,Bowl,76
+525,NZ,SA,Cape Town,329,269,Team1,Team1,Bat,37
+526,ENG,NZ,Sydney,228,365,Team1,Team1,Bowl,75
+527,IND,NZ,Lord's,262,205,Team2,Team1,Bowl,75
+528,PAK,ENG,Mumbai,249,264,Team2,Team2,Bat,55
+529,NZ,IND,Mumbai,309,270,Team2,Team2,Bowl,59
+530,ENG,NZ,Mumbai,316,320,Team2,Team2,Bat,63
+531,SA,IND,Mumbai,340,321,Team1,Team2,Bat,36
+532,AUS,IND,Mumbai,287,248,Team1,Team2,Bowl,49
+533,NZ,ENG,Karachi,299,338,Team2,Team1,Bowl,60
+534,PAK,SA,Mumbai,238,269,Team2,Team2,Bowl,24
+535,ENG,NZ,Lord's,203,355,Team2,Team1,Bat,0
+536,ENG,SA,Cape Town,398,328,Team2,Team1,Bowl,73
+537,ENG,ENG,Lord's,206,287,Team1,Team2,Bat,22
+538,PAK,NZ,Karachi,354,307,Team1,Team2,Bat,79
+539,PAK,AUS,Mumbai,291,243,Team1,Team1,Bowl,46
+540,NZ,SA,Karachi,221,271,Team1,Team2,Bowl,72
+541,AUS,ENG,Karachi,357,229,Team1,Team2,Bat,22
+542,NZ,AUS,Mumbai,274,394,Team2,Team2,Bowl,64
+543,PAK,SA,Cape Town,307,375,Team1,Team2,Bat,84
+544,PAK,PAK,Cape Town,355,294,Team1,Team2,Bat,69
+545,PAK,NZ,Karachi,360,203,Team1,Team1,Bowl,68
+546,SA,PAK,Lord's,361,218,Team1,Team2,Bowl,56
+547,NZ,AUS,Karachi,276,206,Team2,Team1,Bowl,94
+548,SA,NZ,Cape Town,292,384,Team2,Team1,Bat,65
+549,ENG,ENG,Lord's,233,343,Team1,Team1,Bat,62
+550,PAK,NZ,Karachi,369,267,Team1,Team2,Bat,96
+551,ENG,AUS,Sydney,237,316,Team2,Team2,Bat,96
+552,AUS,IND,Sydney,386,288,Team1,Team1,Bowl,79
+553,SA,SA,Sydney,228,341,Team2,Team2,Bat,92
+554,IND,PAK,Karachi,264,233,Team1,Team2,Bowl,9
+555,NZ,PAK,Cape Town,283,203,Team1,Team2,Bowl,74
+556,SA,NZ,Lord's,242,201,Team1,Team2,Bat,52
+557,ENG,SA,Cape Town,386,294,Team1,Team1,Bowl,6
+558,ENG,NZ,Sydney,281,377,Team1,Team2,Bat,51
+559,NZ,IND,Mumbai,362,301,Team2,Team2,Bowl,39
+560,PAK,NZ,Sydney,303,221,Team2,Team1,Bowl,90
+561,PAK,ENG,Mumbai,306,388,Team2,Team1,Bowl,67
+562,SA,AUS,Lord's,250,262,Team2,Team1,Bowl,43
+563,NZ,SA,Mumbai,310,329,Team1,Team2,Bat,10
+564,NZ,ENG,Karachi,389,278,Team1,Team1,Bowl,75
+565,IND,ENG,Cape Town,291,239,Team2,Team1,Bowl,5
+566,IND,NZ,Karachi,386,286,Team2,Team1,Bat,1
+567,ENG,PAK,Mumbai,277,366,Team1,Team1,Bat,0
+568,PAK,ENG,Lord's,302,389,Team2,Team1,Bat,40
+569,PAK,SA,Sydney,202,361,Team1,Team1,Bat,38
+570,ENG,ENG,Sydney,309,243,Team1,Team2,Bat,7
+571,SA,NZ,Lord's,353,271,Team2,Team1,Bat,41
+572,AUS,NZ,Lord's,308,238,Team1,Team1,Bowl,56
+573,NZ,NZ,Cape Town,384,291,Team2,Team2,Bowl,44
+574,IND,ENG,Cape Town,210,344,Team2,Team1,Bat,67
+575,IND,SA,Sydney,289,203,Team1,Team2,Bat,91
+576,SA,PAK,Cape Town,351,323,Team2,Team1,Bat,72
+577,AUS,NZ,Lord's,357,255,Team1,Team1,Bat,52
+578,IND,NZ,Karachi,251,205,Team2,Team2,Bowl,15
+579,ENG,IND,Mumbai,303,284,Team2,Team1,Bat,18
+580,ENG,AUS,Lord's,253,324,Team2,Team2,Bowl,71
+581,ENG,AUS,Karachi,370,335,Team1,Team2,Bat,43
+582,IND,PAK,Cape Town,390,346,Team1,Team2,Bat,40
+583,IND,IND,Cape Town,223,373,Team1,Team1,Bat,19
+584,SA,ENG,Mumbai,335,212,Team2,Team1,Bowl,92
+585,AUS,ENG,Lord's,332,382,Team1,Team2,Bowl,88
+586,AUS,SA,Lord's,354,310,Team2,Team1,Bat,72
+587,AUS,ENG,Karachi,373,311,Team1,Team2,Bowl,2
+588,ENG,AUS,Karachi,218,235,Team1,Team2,Bat,36
+589,NZ,SA,Mumbai,233,204,Team2,Team2,Bowl,29
+590,ENG,NZ,Karachi,250,230,Team2,Team1,Bowl,92
+591,SA,AUS,Mumbai,278,252,Team2,Team1,Bat,40
+592,NZ,SA,Mumbai,312,329,Team1,Team1,Bowl,35
+593,NZ,AUS,Lord's,302,354,Team2,Team2,Bat,23
+594,PAK,IND,Lord's,323,247,Team2,Team1,Bowl,56
+595,IND,NZ,Karachi,328,216,Team2,Team2,Bowl,84
+596,NZ,AUS,Lord's,280,317,Team2,Team1,Bowl,35
+597,NZ,AUS,Cape Town,397,328,Team2,Team1,Bat,36
+598,PAK,SA,Mumbai,256,302,Team2,Team1,Bowl,54
+599,PAK,PAK,Mumbai,365,257,Team1,Team2,Bowl,33
+600,SA,PAK,Karachi,358,248,Team1,Team1,Bat,66
+601,IND,SA,Lord's,333,253,Team1,Team1,Bat,94
+602,NZ,AUS,Lord's,373,387,Team1,Team2,Bat,69
+603,ENG,SA,Lord's,255,318,Team2,Team1,Bowl,60
+604,PAK,ENG,Cape Town,382,323,Team1,Team1,Bat,26
+605,SA,NZ,Karachi,338,389,Team1,Team2,Bowl,39
+606,IND,SA,Sydney,276,327,Team2,Team1,Bat,88
+607,IND,AUS,Lord's,366,362,Team2,Team1,Bat,43
+608,PAK,ENG,Karachi,216,281,Team1,Team2,Bowl,17
+609,AUS,SA,Sydney,394,394,Team1,Team1,Bowl,90
+610,PAK,PAK,Lord's,377,236,Team1,Team1,Bowl,83
+611,AUS,AUS,Lord's,337,201,Team2,Team2,Bowl,77
+612,ENG,IND,Sydney,213,290,Team2,Team2,Bowl,83
+613,PAK,NZ,Sydney,267,301,Team1,Team2,Bat,10
+614,ENG,AUS,Sydney,359,255,Team1,Team2,Bat,28
+615,ENG,SA,Lord's,392,361,Team2,Team2,Bat,92
+616,IND,IND,Mumbai,330,391,Team2,Team2,Bowl,93
+617,ENG,PAK,Sydney,366,388,Team1,Team1,Bat,24
+618,IND,PAK,Sydney,208,332,Team2,Team1,Bat,27
+619,SA,PAK,Cape Town,306,256,Team1,Team1,Bowl,95
+620,AUS,PAK,Cape Town,274,294,Team1,Team2,Bat,73
+621,PAK,IND,Mumbai,327,224,Team1,Team1,Bowl,99
+622,ENG,PAK,Mumbai,373,287,Team1,Team1,Bat,16
+623,AUS,AUS,Sydney,255,234,Team1,Team1,Bat,66
+624,PAK,AUS,Lord's,257,269,Team1,Team1,Bowl,55
+625,AUS,SA,Karachi,368,343,Team1,Team2,Bowl,69
+626,ENG,NZ,Mumbai,316,283,Team1,Team2,Bowl,87
+627,ENG,AUS,Sydney,313,274,Team2,Team1,Bat,14
+628,AUS,PAK,Mumbai,326,305,Team1,Team2,Bat,95
+629,NZ,PAK,Karachi,263,305,Team2,Team2,Bowl,43
+630,PAK,NZ,Sydney,385,247,Team1,Team2,Bat,15
+631,NZ,SA,Mumbai,328,294,Team1,Team1,Bowl,74
+632,SA,ENG,Mumbai,290,376,Team2,Team1,Bat,3
+633,PAK,IND,Lord's,234,321,Team1,Team2,Bat,58
+634,ENG,PAK,Sydney,201,368,Team2,Team1,Bat,88
+635,IND,IND,Lord's,325,245,Team1,Team1,Bat,81
+636,IND,PAK,Sydney,345,386,Team1,Team1,Bat,71
+637,IND,SA,Mumbai,335,315,Team1,Team1,Bowl,24
+638,ENG,SA,Mumbai,365,335,Team1,Team2,Bat,99
+639,AUS,ENG,Cape Town,213,359,Team1,Team2,Bat,82
+640,AUS,PAK,Cape Town,332,275,Team2,Team1,Bat,62
+641,NZ,AUS,Cape Town,336,399,Team2,Team1,Bat,80
+642,PAK,SA,Cape Town,240,223,Team1,Team1,Bowl,31
+643,AUS,NZ,Lord's,210,283,Team2,Team2,Bowl,67
+644,ENG,IND,Lord's,253,248,Team2,Team1,Bat,10
+645,SA,IND,Mumbai,377,335,Team1,Team2,Bat,78
+646,PAK,AUS,Cape Town,221,333,Team1,Team1,Bat,22
+647,IND,IND,Sydney,373,275,Team2,Team2,Bowl,14
+648,NZ,AUS,Cape Town,378,223,Team2,Team1,Bowl,4
+649,NZ,SA,Mumbai,356,332,Team1,Team2,Bowl,73
+650,ENG,ENG,Lord's,360,259,Team2,Team2,Bowl,1
+651,SA,NZ,Karachi,209,346,Team1,Team2,Bat,42
+652,NZ,ENG,Mumbai,386,250,Team1,Team2,Bat,72
+653,NZ,SA,Lord's,295,346,Team2,Team2,Bowl,93
+654,NZ,NZ,Karachi,331,218,Team2,Team2,Bat,63
+655,ENG,AUS,Sydney,294,328,Team2,Team1,Bat,33
+656,SA,IND,Sydney,375,248,Team2,Team2,Bowl,9
+657,SA,ENG,Cape Town,310,251,Team2,Team2,Bowl,13
+658,IND,NZ,Karachi,288,388,Team1,Team1,Bat,58
+659,ENG,PAK,Sydney,347,379,Team1,Team1,Bowl,72
+660,PAK,IND,Sydney,320,315,Team2,Team2,Bowl,97
+661,AUS,SA,Sydney,313,342,Team1,Team2,Bowl,45
+662,SA,NZ,Lord's,263,217,Team2,Team1,Bat,91
+663,IND,PAK,Lord's,369,261,Team2,Team1,Bowl,19
+664,ENG,NZ,Cape Town,390,282,Team2,Team2,Bat,15
+665,NZ,NZ,Sydney,381,394,Team2,Team2,Bat,90
+666,ENG,PAK,Cape Town,284,253,Team1,Team1,Bowl,92
+667,AUS,IND,Lord's,207,261,Team2,Team2,Bowl,39
+668,PAK,NZ,Mumbai,315,393,Team2,Team1,Bowl,22
+669,IND,IND,Cape Town,365,235,Team1,Team2,Bat,63
+670,ENG,IND,Lord's,257,281,Team2,Team2,Bowl,41
+671,AUS,SA,Lord's,327,298,Team2,Team1,Bat,88
+672,ENG,NZ,Sydney,312,324,Team2,Team2,Bowl,71
+673,ENG,IND,Cape Town,236,304,Team1,Team2,Bowl,9
+674,IND,ENG,Karachi,363,346,Team2,Team2,Bat,27
+675,NZ,SA,Cape Town,384,212,Team1,Team2,Bowl,56
+676,ENG,ENG,Mumbai,244,258,Team1,Team1,Bowl,46
+677,NZ,ENG,Karachi,271,347,Team2,Team2,Bowl,24
+678,IND,SA,Mumbai,315,385,Team1,Team2,Bat,67
+679,AUS,IND,Mumbai,266,281,Team1,Team2,Bat,36
+680,PAK,PAK,Mumbai,262,238,Team2,Team1,Bat,96
+681,IND,AUS,Cape Town,316,253,Team2,Team2,Bat,26
+682,SA,ENG,Sydney,277,398,Team1,Team1,Bat,29
+683,ENG,NZ,Mumbai,359,289,Team2,Team2,Bat,39
+684,PAK,NZ,Sydney,373,259,Team2,Team2,Bat,6
+685,SA,PAK,Mumbai,297,347,Team2,Team1,Bowl,13
+686,AUS,NZ,Cape Town,205,203,Team1,Team2,Bowl,14
+687,SA,AUS,Sydney,369,284,Team1,Team2,Bat,22
+688,AUS,PAK,Mumbai,368,387,Team2,Team1,Bat,8
+689,IND,AUS,Cape Town,229,382,Team1,Team1,Bowl,32
+690,ENG,NZ,Cape Town,239,284,Team2,Team1,Bat,48
+691,PAK,IND,Sydney,396,224,Team2,Team2,Bowl,6
+692,IND,SA,Sydney,336,251,Team2,Team2,Bowl,39
+693,AUS,IND,Lord's,203,293,Team2,Team1,Bat,67
+694,SA,IND,Lord's,250,244,Team1,Team2,Bat,26
+695,IND,SA,Lord's,209,220,Team2,Team1,Bat,8
+696,ENG,AUS,Lord's,250,262,Team2,Team2,Bowl,39
+697,ENG,NZ,Karachi,253,230,Team1,Team1,Bat,40
+698,PAK,ENG,Sydney,203,254,Team1,Team2,Bat,78
+699,AUS,ENG,Mumbai,218,209,Team1,Team1,Bowl,62
+700,IND,ENG,Sydney,279,275,Team1,Team1,Bowl,81
+701,PAK,AUS,Karachi,276,380,Team2,Team2,Bowl,60
+702,SA,SA,Karachi,204,380,Team2,Team1,Bat,7
+703,ENG,AUS,Karachi,344,260,Team1,Team2,Bowl,78
+704,AUS,IND,Mumbai,278,325,Team2,Team1,Bat,94
+705,AUS,SA,Lord's,317,213,Team1,Team2,Bowl,19
+706,PAK,SA,Karachi,310,201,Team2,Team1,Bat,2
+707,AUS,ENG,Sydney,338,332,Team2,Team1,Bowl,18
+708,PAK,PAK,Karachi,392,324,Team1,Team2,Bowl,89
+709,AUS,PAK,Mumbai,369,393,Team1,Team1,Bat,21
+710,AUS,PAK,Karachi,222,331,Team2,Team2,Bat,35
+711,IND,SA,Mumbai,202,294,Team1,Team2,Bat,83
+712,PAK,AUS,Lord's,244,210,Team1,Team1,Bat,69
+713,PAK,IND,Sydney,373,320,Team1,Team1,Bowl,11
+714,SA,SA,Sydney,393,204,Team1,Team2,Bat,59
+715,AUS,ENG,Sydney,289,299,Team2,Team2,Bowl,8
+716,PAK,AUS,Mumbai,370,380,Team2,Team2,Bowl,24
+717,AUS,NZ,Lord's,285,286,Team1,Team2,Bat,61
+718,SA,PAK,Lord's,212,236,Team1,Team2,Bat,14
+719,ENG,PAK,Karachi,393,273,Team2,Team2,Bowl,82
+720,PAK,SA,Cape Town,347,297,Team1,Team2,Bat,94
+721,AUS,PAK,Lord's,224,321,Team2,Team1,Bat,7
+722,ENG,IND,Sydney,331,271,Team1,Team2,Bowl,93
+723,IND,PAK,Lord's,356,316,Team1,Team1,Bat,30
+724,SA,IND,Sydney,315,265,Team1,Team1,Bat,27
+725,NZ,PAK,Sydney,397,308,Team1,Team2,Bowl,61
+726,PAK,IND,Lord's,295,375,Team1,Team2,Bowl,79
+727,IND,ENG,Cape Town,327,226,Team1,Team2,Bat,24
+728,SA,AUS,Cape Town,314,236,Team1,Team1,Bowl,92
+729,IND,IND,Mumbai,217,296,Team2,Team1,Bowl,45
+730,SA,PAK,Lord's,319,339,Team2,Team2,Bowl,13
+731,NZ,ENG,Karachi,320,336,Team1,Team2,Bowl,28
+732,IND,NZ,Lord's,355,399,Team1,Team2,Bowl,39
+733,ENG,SA,Cape Town,253,297,Team2,Team2,Bowl,2
+734,AUS,AUS,Karachi,299,340,Team1,Team2,Bat,33
+735,NZ,IND,Lord's,371,212,Team1,Team1,Bowl,16
+736,SA,PAK,Cape Town,206,295,Team1,Team2,Bat,12
+737,ENG,AUS,Sydney,391,375,Team1,Team1,Bat,58
+738,AUS,PAK,Mumbai,315,200,Team1,Team2,Bowl,80
+739,AUS,ENG,Karachi,399,266,Team2,Team2,Bowl,68
+740,ENG,IND,Cape Town,290,238,Team1,Team2,Bowl,74
+741,SA,SA,Karachi,301,289,Team1,Team1,Bat,15
+742,AUS,IND,Cape Town,354,306,Team2,Team1,Bat,40
+743,SA,ENG,Mumbai,216,390,Team2,Team2,Bowl,67
+744,IND,ENG,Mumbai,391,282,Team2,Team2,Bowl,16
+745,NZ,SA,Lord's,241,235,Team1,Team1,Bowl,49
+746,IND,PAK,Lord's,330,279,Team2,Team1,Bat,39
+747,ENG,IND,Cape Town,357,344,Team1,Team2,Bat,71
+748,NZ,IND,Lord's,237,276,Team1,Team1,Bat,75
+749,PAK,AUS,Sydney,213,301,Team2,Team2,Bat,2
+750,AUS,AUS,Sydney,241,377,Team2,Team2,Bowl,26
+751,ENG,ENG,Mumbai,210,308,Team1,Team2,Bat,38
+752,ENG,PAK,Mumbai,270,399,Team1,Team1,Bowl,22
+753,IND,IND,Lord's,391,372,Team2,Team1,Bat,17
+754,PAK,IND,Cape Town,273,291,Team1,Team1,Bat,67
+755,NZ,PAK,Karachi,272,204,Team1,Team2,Bowl,17
+756,IND,PAK,Cape Town,276,351,Team2,Team2,Bowl,43
+757,IND,ENG,Mumbai,357,286,Team1,Team2,Bowl,7
+758,SA,AUS,Mumbai,331,343,Team1,Team1,Bat,83
+759,PAK,IND,Karachi,274,269,Team1,Team2,Bat,85
+760,ENG,PAK,Karachi,324,238,Team1,Team1,Bat,35
+761,PAK,NZ,Lord's,387,286,Team2,Team1,Bat,14
+762,AUS,IND,Karachi,331,228,Team2,Team1,Bat,74
+763,SA,ENG,Sydney,347,253,Team2,Team2,Bat,97
+764,NZ,SA,Sydney,221,256,Team2,Team1,Bowl,67
+765,SA,ENG,Mumbai,204,259,Team2,Team1,Bowl,99
+766,ENG,SA,Mumbai,265,270,Team1,Team1,Bowl,17
+767,ENG,SA,Sydney,283,236,Team2,Team2,Bat,96
+768,ENG,AUS,Karachi,225,335,Team2,Team1,Bowl,52
+769,AUS,SA,Lord's,259,244,Team2,Team2,Bat,78
+770,SA,SA,Karachi,377,379,Team2,Team1,Bowl,92
+771,PAK,NZ,Sydney,299,247,Team2,Team2,Bowl,40
+772,AUS,ENG,Cape Town,361,273,Team2,Team2,Bat,63
+773,AUS,IND,Karachi,281,257,Team1,Team2,Bowl,15
+774,IND,NZ,Mumbai,225,393,Team2,Team1,Bat,54
+775,IND,SA,Mumbai,235,222,Team1,Team1,Bowl,26
+776,ENG,IND,Mumbai,226,343,Team1,Team2,Bowl,90
+777,IND,PAK,Karachi,323,250,Team1,Team1,Bowl,52
+778,AUS,IND,Lord's,304,262,Team1,Team1,Bowl,64
+779,PAK,IND,Sydney,332,313,Team2,Team1,Bat,93
+780,ENG,PAK,Lord's,300,309,Team1,Team2,Bat,95
+781,SA,NZ,Mumbai,215,362,Team2,Team2,Bat,86
+782,SA,ENG,Karachi,221,352,Team1,Team2,Bat,66
+783,ENG,NZ,Cape Town,383,232,Team1,Team1,Bowl,84
+784,PAK,SA,Lord's,222,394,Team1,Team1,Bowl,53
+785,ENG,PAK,Mumbai,397,236,Team1,Team1,Bat,9
+786,AUS,AUS,Karachi,304,343,Team2,Team2,Bowl,73
+787,NZ,PAK,Mumbai,307,243,Team2,Team1,Bowl,23
+788,PAK,IND,Lord's,230,269,Team1,Team2,Bowl,10
+789,NZ,PAK,Lord's,278,367,Team1,Team1,Bowl,97
+790,PAK,SA,Cape Town,305,200,Team1,Team1,Bat,73
+791,IND,NZ,Cape Town,347,262,Team2,Team1,Bat,88
+792,ENG,NZ,Mumbai,318,231,Team2,Team1,Bat,17
+793,NZ,NZ,Sydney,200,327,Team2,Team2,Bowl,68
+794,AUS,IND,Mumbai,368,266,Team1,Team1,Bat,44
+795,NZ,ENG,Lord's,296,269,Team2,Team2,Bowl,43
+796,IND,ENG,Mumbai,228,390,Team2,Team2,Bowl,89
+797,NZ,NZ,Karachi,370,248,Team1,Team2,Bowl,20
+798,ENG,IND,Sydney,304,205,Team1,Team1,Bat,66
+799,PAK,ENG,Sydney,247,345,Team1,Team1,Bat,68
+800,NZ,NZ,Lord's,310,317,Team2,Team2,Bowl,70
+801,IND,ENG,Karachi,238,258,Team1,Team2,Bat,2
+802,AUS,NZ,Sydney,232,276,Team1,Team1,Bowl,93
+803,PAK,ENG,Karachi,301,359,Team1,Team1,Bat,68
+804,IND,ENG,Sydney,320,304,Team2,Team1,Bat,16
+805,SA,IND,Lord's,332,333,Team1,Team1,Bat,37
+806,NZ,AUS,Karachi,397,230,Team2,Team2,Bowl,77
+807,SA,NZ,Sydney,263,207,Team2,Team2,Bowl,83
+808,AUS,ENG,Lord's,286,334,Team2,Team2,Bowl,18
+809,AUS,SA,Cape Town,382,338,Team1,Team1,Bat,53
+810,ENG,SA,Karachi,349,376,Team2,Team1,Bowl,35
+811,AUS,NZ,Lord's,302,334,Team2,Team2,Bat,72
+812,SA,NZ,Sydney,317,319,Team1,Team1,Bat,54
+813,AUS,SA,Cape Town,324,236,Team1,Team2,Bowl,63
+814,SA,AUS,Mumbai,282,353,Team1,Team2,Bat,0
+815,SA,ENG,Mumbai,359,354,Team2,Team1,Bat,80
+816,AUS,PAK,Sydney,250,381,Team1,Team2,Bowl,40
+817,ENG,IND,Sydney,231,323,Team1,Team2,Bowl,74
+818,IND,AUS,Mumbai,218,339,Team2,Team2,Bat,97
+819,SA,SA,Lord's,237,363,Team1,Team1,Bowl,36
+820,NZ,IND,Karachi,364,340,Team1,Team2,Bowl,64
+821,IND,IND,Cape Town,345,396,Team2,Team2,Bat,56
+822,IND,AUS,Karachi,234,380,Team2,Team1,Bowl,29
+823,SA,SA,Karachi,261,241,Team1,Team2,Bat,49
+824,ENG,IND,Lord's,261,339,Team1,Team1,Bowl,69
+825,NZ,NZ,Mumbai,349,318,Team1,Team1,Bowl,52
+826,SA,ENG,Lord's,215,283,Team2,Team1,Bowl,0
+827,SA,AUS,Karachi,377,254,Team2,Team2,Bat,21
+828,NZ,PAK,Cape Town,204,339,Team1,Team2,Bowl,17
+829,IND,NZ,Lord's,275,365,Team1,Team1,Bat,90
+830,AUS,NZ,Karachi,293,219,Team1,Team1,Bowl,54
+831,NZ,IND,Karachi,353,358,Team2,Team2,Bat,97
+832,PAK,PAK,Sydney,329,256,Team1,Team1,Bat,88
+833,IND,NZ,Mumbai,363,218,Team2,Team2,Bowl,79
+834,NZ,NZ,Cape Town,202,321,Team2,Team1,Bowl,11
+835,ENG,SA,Mumbai,277,276,Team1,Team1,Bowl,38
+836,SA,AUS,Cape Town,371,321,Team1,Team1,Bowl,58
+837,AUS,AUS,Cape Town,202,278,Team1,Team2,Bowl,34
+838,SA,AUS,Cape Town,369,357,Team1,Team1,Bat,93
+839,ENG,IND,Sydney,205,373,Team1,Team1,Bowl,1
+840,IND,AUS,Mumbai,262,295,Team2,Team1,Bowl,67
+841,ENG,AUS,Karachi,315,283,Team1,Team2,Bat,44
+842,AUS,IND,Cape Town,370,239,Team1,Team1,Bat,97
+843,PAK,PAK,Karachi,245,234,Team1,Team1,Bat,21
+844,SA,NZ,Mumbai,356,285,Team2,Team1,Bat,63
+845,PAK,IND,Mumbai,212,247,Team2,Team1,Bowl,80
+846,AUS,AUS,Karachi,360,331,Team1,Team2,Bat,75
+847,SA,PAK,Mumbai,297,231,Team1,Team1,Bowl,48
+848,AUS,IND,Mumbai,349,394,Team1,Team1,Bowl,22
+849,SA,NZ,Mumbai,392,217,Team1,Team1,Bat,37
+850,SA,IND,Sydney,382,234,Team1,Team1,Bat,40
+851,SA,PAK,Sydney,393,264,Team2,Team1,Bat,5
+852,PAK,PAK,Sydney,312,268,Team2,Team2,Bowl,97
+853,IND,NZ,Cape Town,242,263,Team1,Team2,Bat,2
+854,PAK,SA,Cape Town,332,284,Team2,Team1,Bowl,65
+855,PAK,AUS,Sydney,392,276,Team1,Team2,Bat,32
+856,AUS,ENG,Sydney,258,302,Team1,Team1,Bat,88
+857,AUS,ENG,Lord's,210,327,Team2,Team2,Bowl,50
+858,AUS,PAK,Cape Town,358,223,Team2,Team1,Bowl,4
+859,NZ,SA,Cape Town,252,304,Team1,Team2,Bowl,83
+860,PAK,ENG,Mumbai,236,244,Team1,Team1,Bat,16
+861,AUS,NZ,Sydney,233,330,Team2,Team1,Bowl,49
+862,IND,ENG,Mumbai,213,326,Team1,Team2,Bowl,7
+863,NZ,AUS,Cape Town,290,308,Team1,Team1,Bowl,44
+864,SA,SA,Lord's,275,363,Team1,Team1,Bat,38
+865,PAK,AUS,Mumbai,321,275,Team2,Team1,Bat,1
+866,SA,PAK,Karachi,345,328,Team2,Team1,Bat,92
+867,ENG,ENG,Cape Town,237,274,Team1,Team1,Bat,1
+868,SA,ENG,Mumbai,368,347,Team2,Team1,Bat,82
+869,SA,SA,Sydney,322,281,Team1,Team2,Bowl,81
+870,IND,ENG,Cape Town,287,235,Team1,Team1,Bowl,35
+871,IND,SA,Sydney,285,287,Team1,Team2,Bat,25
+872,AUS,SA,Sydney,390,353,Team2,Team2,Bowl,7
+873,ENG,PAK,Mumbai,343,268,Team1,Team2,Bowl,42
+874,AUS,PAK,Karachi,378,272,Team2,Team1,Bat,4
+875,PAK,ENG,Karachi,260,280,Team1,Team2,Bowl,59
+876,PAK,IND,Karachi,333,294,Team2,Team2,Bat,74
+877,NZ,SA,Karachi,254,235,Team1,Team2,Bat,89
+878,AUS,AUS,Cape Town,388,243,Team1,Team1,Bowl,80
+879,AUS,AUS,Sydney,325,318,Team2,Team1,Bat,17
+880,NZ,AUS,Mumbai,257,208,Team1,Team1,Bowl,90
+881,NZ,NZ,Sydney,372,267,Team1,Team1,Bowl,40
+882,NZ,IND,Lord's,312,265,Team2,Team1,Bat,44
+883,IND,SA,Mumbai,309,296,Team2,Team2,Bat,22
+884,IND,PAK,Lord's,310,275,Team1,Team1,Bat,4
+885,IND,ENG,Lord's,287,214,Team2,Team1,Bat,39
+886,SA,NZ,Sydney,330,262,Team1,Team1,Bowl,42
+887,PAK,ENG,Sydney,396,393,Team2,Team1,Bat,49
+888,SA,AUS,Mumbai,354,314,Team2,Team2,Bowl,23
+889,ENG,NZ,Karachi,291,212,Team1,Team1,Bowl,41
+890,AUS,ENG,Sydney,387,374,Team1,Team1,Bat,49
+891,PAK,ENG,Karachi,344,275,Team1,Team1,Bat,57
+892,AUS,AUS,Sydney,330,351,Team2,Team1,Bowl,38
+893,SA,PAK,Sydney,282,382,Team1,Team2,Bat,61
+894,NZ,IND,Karachi,244,261,Team1,Team1,Bat,62
+895,PAK,AUS,Cape Town,363,247,Team1,Team1,Bowl,66
+896,SA,SA,Mumbai,291,316,Team2,Team1,Bat,9
+897,SA,ENG,Lord's,251,262,Team1,Team2,Bowl,19
+898,PAK,ENG,Cape Town,351,257,Team1,Team1,Bowl,75
+899,ENG,ENG,Mumbai,308,268,Team1,Team1,Bat,41
+900,ENG,NZ,Cape Town,377,296,Team1,Team1,Bowl,91
+901,ENG,SA,Cape Town,209,278,Team1,Team2,Bowl,63
+902,ENG,AUS,Lord's,346,360,Team1,Team2,Bowl,79
+903,PAK,SA,Sydney,315,214,Team2,Team2,Bowl,20
+904,PAK,IND,Cape Town,216,308,Team2,Team2,Bat,92
+905,SA,NZ,Karachi,373,218,Team1,Team1,Bat,93
+906,ENG,IND,Cape Town,393,297,Team1,Team2,Bowl,91
+907,ENG,IND,Sydney,344,339,Team1,Team2,Bat,30
+908,PAK,AUS,Cape Town,370,390,Team2,Team1,Bowl,94
+909,PAK,AUS,Lord's,288,351,Team1,Team1,Bat,97
+910,SA,PAK,Sydney,358,353,Team1,Team1,Bowl,40
+911,SA,SA,Mumbai,257,287,Team1,Team2,Bat,0
+912,ENG,IND,Cape Town,270,393,Team2,Team1,Bowl,69
+913,SA,ENG,Lord's,324,327,Team2,Team2,Bat,83
+914,PAK,SA,Mumbai,345,367,Team1,Team2,Bat,94
+915,NZ,IND,Sydney,366,323,Team1,Team1,Bat,13
+916,IND,NZ,Karachi,209,305,Team2,Team2,Bat,78
+917,AUS,AUS,Cape Town,378,239,Team1,Team1,Bowl,95
+918,NZ,NZ,Sydney,233,330,Team2,Team1,Bat,37
+919,ENG,IND,Sydney,222,301,Team1,Team2,Bat,84
+920,NZ,NZ,Sydney,217,303,Team1,Team1,Bowl,88
+921,AUS,AUS,Sydney,239,245,Team1,Team2,Bat,46
+922,IND,IND,Sydney,346,213,Team1,Team1,Bowl,16
+923,PAK,PAK,Mumbai,297,298,Team2,Team1,Bat,71
+924,SA,AUS,Mumbai,378,353,Team1,Team2,Bowl,31
+925,PAK,NZ,Cape Town,260,358,Team2,Team1,Bat,15
+926,NZ,AUS,Karachi,334,261,Team1,Team1,Bowl,17
+927,IND,NZ,Cape Town,284,252,Team1,Team1,Bowl,6
+928,SA,SA,Lord's,246,378,Team2,Team1,Bowl,56
+929,IND,AUS,Karachi,244,395,Team1,Team1,Bowl,34
+930,PAK,AUS,Sydney,220,278,Team2,Team2,Bowl,63
+931,NZ,NZ,Karachi,208,350,Team1,Team2,Bowl,35
+932,PAK,SA,Sydney,286,246,Team1,Team2,Bat,88
+933,AUS,IND,Karachi,221,222,Team1,Team1,Bat,4
+934,ENG,ENG,Lord's,276,389,Team1,Team2,Bowl,13
+935,SA,AUS,Karachi,335,269,Team2,Team2,Bowl,93
+936,AUS,AUS,Karachi,361,329,Team1,Team1,Bowl,17
+937,NZ,NZ,Cape Town,343,338,Team1,Team2,Bowl,57
+938,NZ,SA,Sydney,354,337,Team2,Team2,Bowl,47
+939,SA,NZ,Sydney,363,272,Team2,Team1,Bat,87
+940,ENG,SA,Lord's,319,375,Team1,Team2,Bowl,31
+941,NZ,ENG,Mumbai,373,249,Team2,Team1,Bat,68
+942,PAK,IND,Sydney,398,372,Team2,Team1,Bowl,81
+943,NZ,ENG,Mumbai,361,396,Team2,Team1,Bat,31
+944,IND,IND,Lord's,268,254,Team2,Team1,Bowl,69
+945,IND,AUS,Karachi,351,364,Team2,Team1,Bowl,12
+946,NZ,AUS,Mumbai,257,236,Team1,Team1,Bat,84
+947,NZ,IND,Karachi,227,221,Team2,Team1,Bowl,9
+948,AUS,NZ,Lord's,387,306,Team2,Team1,Bat,41
+949,ENG,IND,Lord's,310,200,Team1,Team2,Bowl,54
+950,AUS,AUS,Karachi,361,377,Team1,Team2,Bat,80
+951,NZ,PAK,Sydney,280,394,Team1,Team1,Bat,29
+952,ENG,SA,Sydney,324,398,Team2,Team1,Bat,46
+953,PAK,AUS,Lord's,262,340,Team2,Team2,Bowl,20
+954,IND,SA,Lord's,257,355,Team1,Team2,Bowl,78
+955,SA,IND,Karachi,372,258,Team2,Team1,Bowl,85
+956,IND,PAK,Lord's,205,221,Team2,Team2,Bowl,52
+957,PAK,NZ,Cape Town,275,294,Team2,Team2,Bowl,34
+958,PAK,SA,Karachi,241,201,Team1,Team2,Bat,23
+959,ENG,SA,Sydney,321,326,Team1,Team1,Bat,2
+960,SA,AUS,Cape Town,223,352,Team2,Team2,Bowl,19
+961,PAK,IND,Mumbai,242,227,Team2,Team2,Bat,45
+962,SA,IND,Sydney,353,298,Team2,Team1,Bowl,8
+963,ENG,IND,Lord's,280,385,Team2,Team1,Bowl,46
+964,NZ,AUS,Cape Town,211,222,Team2,Team2,Bat,52
+965,NZ,SA,Mumbai,275,214,Team1,Team2,Bowl,84
+966,IND,SA,Karachi,206,243,Team2,Team1,Bat,78
+967,IND,NZ,Lord's,357,286,Team1,Team2,Bowl,86
+968,SA,ENG,Cape Town,280,351,Team2,Team1,Bat,24
+969,AUS,NZ,Lord's,372,387,Team2,Team1,Bowl,11
+970,NZ,IND,Karachi,365,354,Team1,Team2,Bowl,27
+971,ENG,AUS,Cape Town,263,226,Team1,Team1,Bat,80
+972,NZ,AUS,Sydney,358,224,Team1,Team2,Bowl,42
+973,PAK,AUS,Karachi,311,394,Team1,Team1,Bowl,91
+974,PAK,IND,Karachi,275,227,Team1,Team2,Bat,60
+975,AUS,IND,Lord's,264,366,Team1,Team1,Bat,92
+976,PAK,AUS,Karachi,377,273,Team2,Team1,Bowl,60
+977,ENG,AUS,Lord's,237,287,Team1,Team1,Bowl,20
+978,ENG,SA,Sydney,230,270,Team2,Team1,Bat,71
+979,PAK,PAK,Karachi,395,203,Team1,Team1,Bowl,26
+980,SA,SA,Lord's,341,318,Team1,Team2,Bowl,11
+981,PAK,IND,Cape Town,314,300,Team1,Team1,Bat,37
+982,SA,NZ,Cape Town,398,364,Team2,Team1,Bowl,70
+983,PAK,NZ,Sydney,216,232,Team1,Team2,Bowl,24
+984,SA,SA,Cape Town,370,268,Team1,Team2,Bat,65
+985,IND,ENG,Mumbai,396,287,Team2,Team2,Bowl,18
+986,AUS,ENG,Sydney,328,292,Team2,Team1,Bat,2
+987,AUS,IND,Sydney,212,228,Team1,Team1,Bowl,6
+988,NZ,AUS,Mumbai,283,210,Team1,Team1,Bowl,52
+989,NZ,PAK,Lord's,394,347,Team2,Team2,Bat,64
+990,PAK,AUS,Mumbai,399,382,Team2,Team2,Bowl,79
+991,IND,ENG,Lord's,224,235,Team2,Team2,Bowl,63
+992,SA,SA,Sydney,311,329,Team2,Team1,Bat,60
+993,IND,NZ,Karachi,315,328,Team1,Team2,Bowl,75
+994,IND,SA,Cape Town,212,360,Team2,Team1,Bat,94
+995,PAK,AUS,Mumbai,325,241,Team1,Team2,Bowl,71
+996,ENG,NZ,Sydney,304,322,Team1,Team1,Bowl,94
+997,PAK,PAK,Mumbai,374,250,Team2,Team1,Bowl,9
+998,SA,NZ,Karachi,245,228,Team2,Team2,Bat,21
+999,NZ,ENG,Cape Town,261,359,Team1,Team1,Bat,90
+1000,IND,SA,Mumbai,235,375,Team1,Team1,Bat,43
